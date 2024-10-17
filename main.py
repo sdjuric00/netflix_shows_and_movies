@@ -237,8 +237,6 @@ def analyse_score_by_content_type(titles_data):
     plt.title("Odnos između dužine trajanja filma i ocene")
     plt.xlabel("Dužina trajanja (minuti)")
     plt.ylabel("Prosečna ocena")
-
-    # Prikaz grafa
     plt.show()
 
 
